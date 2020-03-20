@@ -1,4 +1,4 @@
-# Unsupervised-Machine-Learning
+# Unsupervised-Machine-Learning(Using R)
 1. Team assignments will be finalized via QTools.
 2. A 2-page project proposal is due on November 4. The proposal should summarize (a) the problem
 that motivates the analysis you will conduct, (b) the data set you plan to use, and if possible (c) your
